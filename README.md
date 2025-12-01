@@ -1,4 +1,4 @@
-Sistema de Monitoramento do Posicionamento de Ônibus – Projeto IoT
+#Sistema de Monitoramento do Posicionamento de Ônibus 
 Este repositório contém a implementação de um sistema IoT para monitorar a passagem de um ônibus por pontos fixos utilizando RFID, NodeMCU ESP8266, backend em Node.js, banco de dados MySQL e um aplicativo mobile em React Native.
 O projeto foi desenvolvido para fins acadêmicos na disciplina de Internet das Coisas 
 
